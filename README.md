@@ -21,5 +21,5 @@ Video demo:
 
 https://husteduvn-my.sharepoint.com/personal/duy_nl204960_sis_hust_edu_vn/_layouts/15/stream.aspx?id=%2Fpersonal%2Fduy%5Fnl204960%5Fsis%5Fhust%5Fedu%5Fvn%2FDocuments%2Fky%20thuat%20phan%20mem%2FScreen%20Recording%202025%2D04%2D11%20092817%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9c2c7bce%2D7312%2D4440%2D98de%2D19013d858b4f
 
-Thanks for using the app!
+Thanks for using our app!
 
